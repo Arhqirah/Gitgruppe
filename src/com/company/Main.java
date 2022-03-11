@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Super program!");
         System.out.println("Enig!");
+        System.out.println("100p");
     }
 }
